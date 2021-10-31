@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ECommerce-Book-Store/static/css/main.4b64cf25.chunk.css",
+    "main.js": "/ECommerce-Book-Store/static/js/main.a6f85bf7.chunk.js",
+    "main.js.map": "/ECommerce-Book-Store/static/js/main.a6f85bf7.chunk.js.map",
+    "runtime-main.js": "/ECommerce-Book-Store/static/js/runtime-main.131c0cee.js",
+    "runtime-main.js.map": "/ECommerce-Book-Store/static/js/runtime-main.131c0cee.js.map",
+    "static/js/2.0e4c0656.chunk.js": "/ECommerce-Book-Store/static/js/2.0e4c0656.chunk.js",
+    "static/js/2.0e4c0656.chunk.js.map": "/ECommerce-Book-Store/static/js/2.0e4c0656.chunk.js.map",
+    "index.html": "/ECommerce-Book-Store/index.html",
+    "static/css/main.4b64cf25.chunk.css.map": "/ECommerce-Book-Store/static/css/main.4b64cf25.chunk.css.map",
+    "static/js/2.0e4c0656.chunk.js.LICENSE.txt": "/ECommerce-Book-Store/static/js/2.0e4c0656.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.131c0cee.js",
+    "static/js/2.0e4c0656.chunk.js",
+    "static/css/main.4b64cf25.chunk.css",
+    "static/js/main.a6f85bf7.chunk.js"
+  ]
+}
